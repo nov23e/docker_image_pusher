@@ -17,5 +17,6 @@ halohub/halo
 vaultwarden/server
 nextcloud
 diygod/rsshub
+cloudnas/clouddrive2:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
