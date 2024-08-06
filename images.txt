@@ -12,7 +12,6 @@ jasminexzzz/blossom:latest
 cloudreve/cloudreve:latest
 ghost:latest
 klakegg/hugo:latest
-discourse/base:latest
 halohub/halo:latest
 vaultwarden/server:latest
 nextcloud:latest
