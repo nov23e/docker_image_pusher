@@ -10,13 +10,13 @@ xhofe/alist:latest
 crazymax/flarum:latest
 jasminexzzz/blossom:latest
 cloudreve/cloudreve:latest
-ghost
-klakegg/hugo
-discourse/base
-halohub/halo
-vaultwarden/server
-nextcloud
-diygod/rsshub
+ghost:latest
+klakegg/hugo:latest
+discourse/base:latest
+halohub/halo:latest
+vaultwarden/server:latest
+nextcloud:latest
+diygod/rsshub:latest
 cloudnas/clouddrive2:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
