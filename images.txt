@@ -1,7 +1,21 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 linuxserver/emby:latest
+minio/minio:latest
+cinwell/notea:latest
+gitea/gitea:latest
+wordpress
+neosmemo/memos:latest
+xhofe/alist:latest
+crazymax/flarum:latest
+jasminexzzz/blossom:latest
+cloudreve/cloudreve:latest
+ghost
+klakegg/hugo
+discourse/base
+halohub/halo
+vaultwarden/server
+nextcloud
+diygod/rsshub
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
