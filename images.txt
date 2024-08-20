@@ -22,5 +22,6 @@ lovechen/embyserver:latest
 emby/embyserver:latest
 linuxserver/plex:latest
 linuxserver/jellyfin:latest
+deluan/navidrome:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
