@@ -23,5 +23,7 @@ emby/embyserver:latest
 linuxserver/plex:latest
 linuxserver/jellyfin:latest
 deluan/navidrome:latest
+hicane/emby_115:latest
+hicane/emby_nginx:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
