@@ -13,7 +13,7 @@ cloudreve/cloudreve:latest
 ghost:latest
 klakegg/hugo:latest
 halohub/halo:latest
-vaultwarden/server:latest
+vaultwarden/server:testing
 nextcloud:latest
 diygod/rsshub:latest
 cloudnas/clouddrive2:latest
