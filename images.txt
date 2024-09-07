@@ -28,5 +28,8 @@ hicane/emby_nginx:latest
 jc21/nginx-proxy-manager:latest
 mariadb
 phpmyadmin
+hisatri/lrcapi:latest
+xhongc/music_tag_web:latest
+stonith404/pingvin-share:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
