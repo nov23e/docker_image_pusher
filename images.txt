@@ -26,5 +26,7 @@ deluan/navidrome:latest
 hicane/emby_115:latest
 hicane/emby_nginx:latest
 jc21/nginx-proxy-manager:latest
+mariadb
+phpmyadmin
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
