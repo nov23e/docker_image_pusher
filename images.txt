@@ -1,5 +1,3 @@
-nginx
-#支持私库
 linuxserver/emby:latest
 minio/minio:latest
 cinwell/notea:latest
@@ -42,5 +40,4 @@ linuxserver/qbittorrent:latest
 alpine:latest
 golang:1.23
 nginx:alpine
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+xiaoyaliu/alist
