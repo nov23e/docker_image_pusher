@@ -38,6 +38,5 @@ ghcr.io/raywangqvq/bilibili_tool_pro
 akimio/autofilm:latest
 linuxserver/qbittorrent:latest
 alpine:latest
-golang:1.23
-nginx:alpine
+nginx
 xiaoyaliu/alist
