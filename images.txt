@@ -32,5 +32,10 @@ hisatri/lrcapi:latest
 xhongc/music_tag_web:latest
 stonith404/pingvin-share:latest
 svenstaro/miniserve:latest
+dzhuang/tinymediamanager:latest
+shenxianmq/auto_symlink:latest
+qdtoday/qd:latest
+redis
+ghcr.io/raywangqvq/bilibili_tool_pro
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
