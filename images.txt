@@ -41,5 +41,6 @@ akimio/autofilm:latest
 linuxserver/qbittorrent:latest
 alpine:latest
 golang:1.23
+nginx:alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
