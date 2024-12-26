@@ -40,5 +40,6 @@ ghcr.io/raywangqvq/bilibili_tool_pro
 akimio/autofilm:latest
 linuxserver/qbittorrent:latest
 alpine:latest
+golang:1.23
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
