@@ -16,7 +16,6 @@ nextcloud:latest
 diygod/rsshub:latest
 cloudnas/clouddrive2:latest
 amilys/embyserver:latest
-lovechen/embyserver:latest
 emby/embyserver:latest
 linuxserver/plex:latest
 linuxserver/jellyfin:latest
