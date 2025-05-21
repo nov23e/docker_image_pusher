@@ -40,3 +40,4 @@ linuxserver/qbittorrent:latest
 alpine:latest
 nginx
 xiaoyaliu/alist
+itefuir/alist-strm:latest
